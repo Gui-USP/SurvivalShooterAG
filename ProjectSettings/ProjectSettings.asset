@@ -711,9 +711,9 @@ PlayerSettings:
     Unity_Ads: 0
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: Space Shooter
-  organizationId: will-goldstone
+  cloudProjectId: f3fedc4f-a56d-4de1-913c-129b8e4e5b4d
+  projectName: New Unity Project (1)
+  organizationId: unity-technologies-as-publisher
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
